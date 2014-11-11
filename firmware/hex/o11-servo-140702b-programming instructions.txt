@@ -1,0 +1,12 @@
+o11 servo programming instructions
+MCU: ATtiny45
+
+Programming Instructions
+
+Step 1) Flash the micro controller with the accompanying .hex file. MCU must be programmed before being placed on PCB.
+
+Step 2) Set the fuses on the micro controller. Use the following fuse settings:
+
+		EXTENDED:	0xFF
+		HIGH:		0xDD
+		LOW:		0xCF
