@@ -1,5 +1,4 @@
 // o11 servo firmware
-// Sean Schumer
 // littleBits Electronics Inc.
 // 29 MAY 2014
 /*

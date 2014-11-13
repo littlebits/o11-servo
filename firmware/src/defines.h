@@ -2,7 +2,6 @@
  * defines.h
  *
  * Created: 5/28/2014 10:49:31 AM
- *  Author: Sean Schumer
  *
  * Copyright 2014 littleBits Electronics
  *
